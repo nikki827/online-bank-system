@@ -40,7 +40,7 @@ CREATE TABLE `transaction` (
 --
 
 INSERT INTO `transaction` (`sno`, `sender`, `receiver`, `balance`, `datetime`) VALUES
-(21, 'Parthkumar Prajapati', 'Nishant Pansuriya', 20000, '2021-03-26 00:17:36');
+(21, 'jahanvi khambalkar', 'vatsal parikh', 15000, '2021-04-19 00:17:36');
 
 -- --------------------------------------------------------
 
@@ -60,17 +60,14 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
-(1, 'Nishant Pansuriya', 'nishantpansuriya@gmail.com', 105100),
-(2, 'Brijesh Lakhani', 'brijeshlakhani@gmail.com', 34400),
-(3, 'Mayur Chauhan', 'mayurchauhan@gmail.com', 150500),
+(1, 'Nikita gupta', 'gupta nikita@gmail.com', 105100),
+(2, 'dipika parmar', 'parmar dipika@gmail.com', 34400),
+(3, 'jahanvi khambalkar', 'jk121@gmail@gmail.com', 150500),
 (4, 'Vatsal Parikh', 'vatsalparikh@gmail.com', 75000),
-(5, 'Yash Prajapati', 'yashprajapati@gmail.com', 100000),
+(5, 'kervi mehta', 'mehta kervi@gmail.com', 100000),
 (6, 'Saumil Patel', 'saumilpatel@gmail.com', 80000),
-(7, 'Jaydev Raol ', 'jaydevraol@gmail.com', 45000),
-(8, 'Smit Patel', 'smitpatel@gmail.com', 52000),
-(9, 'Jay Patel', 'jaypatel@gmail.com', 96000),
-(10, 'Pratham Patel', 'prathampatel@gmail.com', 78000),
-(16, 'Parthkumar Prajapati', 'parthprajapati@gmail.com', 92000);
+(7, 'prashant updhayay ', 'pu567@gmail.com', 45000),
+(8, 'alphin jain', 'alphin jain@gmail.com', 52000),
 
 --
 -- Indexes for dumped tables
